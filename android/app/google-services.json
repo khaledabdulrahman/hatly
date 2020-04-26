@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "458358690280",
+    "firebase_url": "https://hatly-k.firebaseio.com",
+    "project_id": "hatly-k",
+    "storage_bucket": "hatly-k.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:458358690280:android:d7defd6d88c6fb3f7b145d",
+        "android_client_info": {
+          "package_name": "com.example.hatly"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "458358690280-iuvnce6gf5qe1mcgne020tod7pqt9p6a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdzFcBDUnOh8cWi1INecxdGdE5NrNEFrU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "458358690280-iuvnce6gf5qe1mcgne020tod7pqt9p6a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
